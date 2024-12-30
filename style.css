@@ -1,0 +1,76 @@
+
+h1{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+.headings {
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+
+.end{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+
+ #msg{
+    color: black;
+    padding: 10px;
+    border-radius:12px;
+    border: 2px solid black;
+    
+} 
+
+#btn{
+
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+    border: 2px solid white;
+}
+
+
+
+#header {
+    justify-content: center;
+    background-color: yellow;
+    color: green;
+}
+
+#image {
+    height: 80%;
+    width: 80%;
+}
+
+#projects {
+    display: flex;
+    margin: 20px;
+    color: black;
+} 
+
+.project {
+    padding : 20px;
+    margin: 20px;
+    background-color: peachpuff;
+}
+.project2 {
+    padding : 20px;
+    margin: 20px;
+    background-color: orangered;
+}
+
+
+.projectName {
+    margin-left: 25% ;
+}
+
+
+#start {
+    display: flex;
+    margin: 30px;
+    justify-content: space-around;
+}
